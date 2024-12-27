@@ -4,13 +4,13 @@ export default function Footer() {
   return (
     <footer className="w-full  h-1/12 text-center  bg-slate-200  flex flex-col justify-center items-center">
       <div >
-        <p className="text-xs text-gray-500">Copyright Ⓒ 2024 All rights reserved.
+        <p className="text-xs text-gray-500">Copyright Ⓒ 2024 All rights reserved. 
           <Link 
           href="https://sink-7za.pages.dev/dashboard/login"
           className="text-blue-300  hover:text-red-900 ml-1"
           target="_blank"
           rel="noopener noreferrer"
-          >短地址</Link> </p>
+          >VIP</Link> </p>
       </div>
     </footer>
   );
